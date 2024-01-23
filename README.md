@@ -10,7 +10,7 @@ _(A.K.A. EE 322)_
 [made using this cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
-Radiohead is made up of
+**Radiohead is made up of**
 
 - Thom Yorke
 - Jonny Greenwood
