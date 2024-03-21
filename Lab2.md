@@ -19,3 +19,5 @@
 ### Cloning iot
 <img width="446" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/3fb23e9a-4bc5-480f-8099-cf165419f007">
 
+### Creating A File
+<img width="355" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/ba199f8d-d362-4c02-8dad-80f0b529048b">
