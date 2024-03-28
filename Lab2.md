@@ -21,3 +21,12 @@
 
 ### Creating A File
 <img width="355" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/ba199f8d-d362-4c02-8dad-80f0b529048b">
+
+### Displaying IP Configuration
+<img width="505" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/a9f79ccd-d5b2-4c93-8aa3-e19100ff5bb3">
+
+### Pinging localhost
+<img width="421" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/ca0cbb2c-6aec-4140-b77c-5533f176f33e">
+
+### Using netstat to View Active Connections (full output not shown)
+<img width="257" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/e54614cf-adfd-4436-a14d-1d3f2290fc5f">
