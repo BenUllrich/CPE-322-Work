@@ -21,12 +21,10 @@
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/e876b2cd-2a53-4499-8fdd-2363edfd178d)
 
 ### coordinates.py "Samuel C. Williams Library"*
-![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/0a6d7f36-8b81-4c60-ad8f-f52bb2d98e4d)
-*unsure why this will not run. geopy is installed and I have a stable(wired) internet connection.
+<img width="629" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/b6bf0ab6-2a89-4c6e-8143-f10419087341">
 
 ### address.py "40.74480675, -74.02532861159351"*
-![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/0e8c24b7-945d-4ba2-bf5a-604995cb9328)
-*unsure why this will not run. geopy is installed and I have a stable(wired) internet connection.
+<img width="634" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/95a19ca0-5568-4112-b19e-09c7b9396dd9">
 
 ### cpu.py
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/83eb5450-4e07-40e0-9784-f8f324ff7cb8)
