@@ -20,10 +20,10 @@
 ### moon.py
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/e876b2cd-2a53-4499-8fdd-2363edfd178d)
 
-### coordinates.py "Samuel C. Williams Library"*
+### coordinates.py "Samuel C. Williams Library"
 <img width="629" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/b6bf0ab6-2a89-4c6e-8143-f10419087341">
 
-### address.py "40.74480675, -74.02532861159351"*
+### address.py "40.74480675, -74.02532861159351"
 <img width="634" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/95a19ca0-5568-4112-b19e-09c7b9396dd9">
 
 ### cpu.py
