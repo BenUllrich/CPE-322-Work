@@ -33,6 +33,7 @@
 
 ### battery.py*
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/95e8a3fc-823a-42a2-83bb-e92bf49c2599)
+
 *run on a desktop, so this is correct
 
 ### documentstats.py document.txt
