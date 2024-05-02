@@ -27,7 +27,7 @@
 <img width="634" alt="image" src="https://github.com/BenUllrich/CPE-322-Work/assets/108437018/95a19ca0-5568-4112-b19e-09c7b9396dd9">
 
 ### cpu.py
-![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/83eb5450-4e07-40e0-9784-f8f324ff7cb8)
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/d16ee988-4ea5-46ea-97a6-56f7814dab93)
 
 ### battery.py*
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/95e8a3fc-823a-42a2-83bb-e92bf49c2599)
