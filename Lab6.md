@@ -10,3 +10,9 @@
 
 ### hello.js
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/e814bd17-ecff-4942-aa73-ef52724327fb)
+
+### http.js
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/733306fa-9ea9-4fdd-9525-3ea6cd195713)
+
+### Pystache
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/5fa542c7-a7ed-42c2-afff-669b642f9e17)
