@@ -33,3 +33,9 @@
 
 ### Server App
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/9c159eba-d1da-4369-a839-248fcb7c6302)
+
+
+## Flask
+
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/ffb9f82a-8f4e-4321-8cb9-b5cd9d3762f4)
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/90ff8be2-aacf-4375-ba83-4944f0108054)
