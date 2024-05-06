@@ -10,3 +10,4 @@
 
 ### Mining New Block
 ![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/6e4a9a2d-a00c-4272-9f9d-c067df94d8cd)
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/73e3a7f1-c88a-4283-bd21-06c95a33fdfe)
