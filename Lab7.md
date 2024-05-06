@@ -3,5 +3,6 @@
 ## Benjamin Ullrich
 
 ### ThingSpeak Demo
-![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/765ffaa4-fbff-4f87-9704-9ba9e3b914ef)
+![image](https://github.com/BenUllrich/CPE-322-Work/assets/108437018/6a5ba02c-e703-4d3c-9fd8-917ef964a243)
+
 
